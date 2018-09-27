@@ -1,0 +1,293 @@
+DBN,Grad_rate,Coll_rate,NTA,School Year
+31R455,0.85,0.66,Annadale-Huguenot-Prince's Bay-Eltingville,2013-14
+30Q445,0.69,0.46,Astoria,2013-14
+30Q450,0.63,0.43,Astoria,2013-14
+30Q501,0.98,0.8,Astoria,2013-14
+25Q285,0.95,0.8,Auburndale,2013-14
+26Q430,0.86,0.74,Auburndale,2013-14
+28Q690,0.74,0.5,Baisley Park,2013-14
+02M316,0.77,0.62,Battery Park City-Lower Manhattan,2013-14
+02M418,0.99,0.88,Battery Park City-Lower Manhattan,2013-14
+02M425,0.64,0.41,Battery Park City-Lower Manhattan,2013-14
+02M475,0.99,0.97,Battery Park City-Lower Manhattan,2013-14
+02M489,0.82,0.7,Battery Park City-Lower Manhattan,2013-14
+02M551,0.76,0.51,Battery Park City-Lower Manhattan,2013-14
+02M580,0.71,0.59,Battery Park City-Lower Manhattan,2013-14
+20K485,0.87,0.7,Bay Ridge,2013-14
+20K490,0.68,0.58,Bay Ridge,2013-14
+26Q495,0.91,0.79,Bayside-Bayside Hills,2013-14
+13K595,0.98,0.79,Bedford,2013-14
+26Q435,0.54,0.45,Bellerose,2013-14
+26Q566,0.9,0.74,Bellerose,2013-14
+10X243,0.65,0.4,Belmont,2013-14
+10X434,0.7,0.48,Belmont,2013-14
+10X437,0.77,0.44,Belmont,2013-14
+10X438,0.4,0.22,Belmont,2013-14
+10X439,0.75,0.41,Belmont,2013-14
+20K445,0.7,0.54,Bensonhurst West,2013-14
+21K690,0.78,0.55,Bensonhurst West,2013-14
+20K505,0.58,0.49,Borough Park,2013-14
+27Q262,0.97,0.66,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,2013-14
+28Q505,0.74,0.6,Briarwood-Jamaica Hills,2013-14
+28Q620,0.88,0.67,Briarwood-Jamaica Hills,2013-14
+21K620,0.57,0.27,Brighton Beach,2013-14
+11X288,0.82,0.72,Bronxdale,2013-14
+11X299,0.65,0.49,Bronxdale,2013-14
+11X542,0.89,0.79,Bronxdale,2013-14
+23K514,0.53,0.37,Brownsville,2013-14
+23K697,0.67,0.47,Brownsville,2013-14
+32K403,0.62,0.36,Bushwick North,2013-14
+32K549,0.69,0.31,Bushwick North,2013-14
+32K552,0.48,0.31,Bushwick North,2013-14
+32K554,0.94,0.74,Bushwick North,2013-14
+14K474,0.59,0.35,Bushwick South,2013-14
+14K477,0.54,0.27,Bushwick South,2013-14
+14K478,0.76,0.71,Bushwick South,2013-14
+32K545,0.59,0.53,Bushwick South,2013-14
+32K556,0.68,0.38,Bushwick South,2013-14
+29Q492,0.66,0.5,Cambria Heights,2013-14
+29Q498,0.78,0.49,Cambria Heights,2013-14
+15K448,0.9,0.7,Carroll Gardens-Columbia Street-Red Hook,2013-14
+05M304,0.66,0.47,Central Harlem North-Polo Grounds,2013-14
+05M499,0.68,0.78,Central Harlem North-Polo Grounds,2013-14
+05M670,0.84,0.78,Central Harlem North-Polo Grounds,2013-14
+03M415,0.5,0.23,Central Harlem South,2013-14
+03M860,0.73,0.42,Central Harlem South,2013-14
+01M509,0.48,0.26,Chinatown,2013-14
+02M294,0.71,0.4,Chinatown,2013-14
+02M298,0.94,0.68,Chinatown,2013-14
+02M305,0.87,0.69,Chinatown,2013-14
+02M308,0.72,0.61,Chinatown,2013-14
+02M520,0.51,0.36,Chinatown,2013-14
+02M543,0.82,0.47,Chinatown,2013-14
+02M545,0.96,0.83,Chinatown,2013-14
+09X231,0.71,0.51,Claremont-Bathgate,2013-14
+09X250,0.85,0.68,Claremont-Bathgate,2013-14
+09X252,0.69,0.69,Claremont-Bathgate,2013-14
+09X260,0.88,0.83,Claremont-Bathgate,2013-14
+09X263,0.58,0.49,Claremont-Bathgate,2013-14
+09X276,0.41,0.25,Claremont-Bathgate,2013-14
+09X517,0.72,0.32,Claremont-Bathgate,2013-14
+09X525,0.61,0.37,Claremont-Bathgate,2013-14
+02M288,0.77,0.49,Clinton,2013-14
+02M296,0.73,0.47,Clinton,2013-14
+02M300,0.65,0.43,Clinton,2013-14
+02M303,0.72,0.49,Clinton,2013-14
+02M400,0.84,0.7,Clinton,2013-14
+02M408,0.94,0.66,Clinton,2013-14
+02M542,0.85,0.58,Clinton,2013-14
+13K412,0.78,0.46,Clinton Hill,2013-14
+13K670,0.95,0.79,Clinton Hill,2013-14
+11X455,0.66,0.34,Co-op City,2013-14
+24Q550,0.85,0.58,Corona,2013-14
+12X251,0.65,0.35,Crotona Park East,2013-14
+12X271,0.8,0.45,Crotona Park East,2013-14
+12X682,0.66,0.41,Crotona Park East,2013-14
+13K499,0.67,0.62,Crown Heights North,2013-14
+16K455,0.42,0.2,Crown Heights North,2013-14
+17K524,0.57,0.39,Crown Heights South,2013-14
+17K528,0.55,0.33,Crown Heights South,2013-14
+17K547,0.78,0.48,Crown Heights South,2013-14
+17K548,0.72,0.38,Crown Heights South,2013-14
+17K590,0.92,0.72,Crown Heights South,2013-14
+17K600,0.77,0.58,Crown Heights South,2013-14
+13K350,0.6,0.32,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,2013-14
+13K419,0.71,0.44,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,2013-14
+13K439,0.89,0.63,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,2013-14
+13K483,0.88,0.82,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,2013-14
+13K605,0.79,0.35,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,2013-14
+15K429,0.54,0.57,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,2013-14
+15K519,0.73,0.48,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,2013-14
+15K656,0.79,0.63,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,2013-14
+07X527,0.65,0.55,East Concourse-Concourse Village,2013-14
+07X547,0.54,0.28,East Concourse-Concourse Village,2013-14
+07X548,0.74,0.45,East Concourse-Concourse Village,2013-14
+09X227,0.55,0.34,East Concourse-Concourse Village,2013-14
+09X329,0.44,0.24,East Concourse-Concourse Village,2013-14
+09X412,0.45,0.23,East Concourse-Concourse Village,2013-14
+09X413,0.83,0.69,East Concourse-Concourse Village,2013-14
+09X505,0.77,0.7,East Concourse-Concourse Village,2013-14
+04M409,0.27,0.3,East Harlem North,2013-14
+04M435,0.94,0.77,East Harlem North,2013-14
+04M495,0.93,0.55,East Harlem South,2013-14
+04M555,0.98,0.77,East Harlem South,2013-14
+04M610,1.0,0.97,East Harlem South,2013-14
+04M680,0.7,0.33,East Harlem South,2013-14
+19K404,0.8,0.49,East New York,2013-14
+19K409,0.93,0.62,East New York,2013-14
+19K615,0.64,0.37,East New York,2013-14
+19K504,0.52,0.25,East New York (Pennsylvania Ave),2013-14
+19K507,0.71,0.34,East New York (Pennsylvania Ave),2013-14
+19K510,0.58,0.48,East New York (Pennsylvania Ave),2013-14
+19K660,0.5,0.26,East New York (Pennsylvania Ave),2013-14
+12X684,0.62,0.41,East Tremont,2013-14
+01M450,0.82,0.69,East Village,2013-14
+14K449,0.99,0.97,East Williamsburg,2013-14
+14K454,0.51,0.22,East Williamsburg,2013-14
+24Q455,0.65,0.4,Elmhurst,2013-14
+17K382,0.63,0.47,Erasmus,2013-14
+17K408,0.68,0.24,Erasmus,2013-14
+17K537,0.71,0.46,Erasmus,2013-14
+17K539,0.75,0.38,Erasmus,2013-14
+17K543,0.95,0.89,Erasmus,2013-14
+27Q260,0.59,0.38,Far Rockaway-Bayswater,2013-14
+22K405,0.89,0.74,Flatbush,2013-14
+25Q281,0.92,0.8,Flushing,2013-14
+25Q460,0.57,0.39,Flushing,2013-14
+28Q440,0.84,0.72,Forest Hills,2013-14
+13K265,0.66,0.36,Fort Greene,2013-14
+13K430,0.98,0.91,Fort Greene,2013-14
+02M047,0.69,0.62,Gramercy,2013-14
+02M374,0.74,0.54,Gramercy,2013-14
+02M407,0.9,0.84,Gramercy,2013-14
+02M413,0.91,0.78,Gramercy,2013-14
+02M420,0.9,0.76,Gramercy,2013-14
+21K337,0.61,0.41,Gravesend,2013-14
+21K348,0.83,0.4,Gravesend,2013-14
+21K540,0.79,0.56,Gravesend,2013-14
+29Q259,0.81,0.59,Hollis,2013-14
+02M411,1.0,0.97,Hudson Yards-Chelsea-Flatiron-Union Square,2013-14
+02M412,0.96,0.79,Hudson Yards-Chelsea-Flatiron-Union Square,2013-14
+02M414,0.97,0.81,Hudson Yards-Chelsea-Flatiron-Union Square,2013-14
+02M419,0.66,0.35,Hudson Yards-Chelsea-Flatiron-Union Square,2013-14
+02M439,0.99,0.85,Hudson Yards-Chelsea-Flatiron-Union Square,2013-14
+02M600,0.92,0.68,Hudson Yards-Chelsea-Flatiron-Union Square,2013-14
+24Q264,0.91,0.73,Hunters Point-Sunnyside-West Maspeth,2013-14
+24Q267,0.7,0.52,Hunters Point-Sunnyside-West Maspeth,2013-14
+24Q299,0.99,0.86,Hunters Point-Sunnyside-West Maspeth,2013-14
+24Q520,0.7,0.5,Hunters Point-Sunnyside-West Maspeth,2013-14
+24Q530,0.82,0.64,Hunters Point-Sunnyside-West Maspeth,2013-14
+24Q600,0.8,0.62,Hunters Point-Sunnyside-West Maspeth,2013-14
+24Q610,0.94,0.82,Hunters Point-Sunnyside-West Maspeth,2013-14
+30Q502,0.68,0.49,Hunters Point-Sunnyside-West Maspeth,2013-14
+28Q687,1.0,0.89,Jamaica,2013-14
+25Q425,0.66,0.51,Kew Gardens Hills,2013-14
+25Q525,1.0,1.0,Kew Gardens Hills,2013-14
+25Q670,0.82,0.65,Kew Gardens Hills,2013-14
+02M416,1.0,0.89,Lenox Hill-Roosevelt Island,2013-14
+02M449,0.75,0.47,Lenox Hill-Roosevelt Island,2013-14
+02M459,0.71,0.52,Lenox Hill-Roosevelt Island,2013-14
+02M519,0.95,0.76,Lenox Hill-Roosevelt Island,2013-14
+03M299,0.72,0.44,Lincoln Square,2013-14
+03M307,0.67,0.41,Lincoln Square,2013-14
+03M479,0.99,0.84,Lincoln Square,2013-14
+03M485,0.99,0.8,Lincoln Square,2013-14
+03M492,0.72,0.48,Lincoln Square,2013-14
+03M494,0.61,0.39,Lincoln Square,2013-14
+03M541,0.98,0.89,Lincoln Square,2013-14
+08X332,0.46,0.28,Longwood,2013-14
+08X530,0.4,0.22,Longwood,2013-14
+12X248,0.63,0.59,Longwood,2013-14
+12X278,0.33,0.17,Longwood,2013-14
+01M292,0.43,0.41,Lower East Side,2013-14
+01M448,0.8,0.52,Lower East Side,2013-14
+01M539,0.95,0.89,Lower East Side,2013-14
+01M696,1.0,0.93,Lower East Side,2013-14
+22K425,0.76,0.63,Madison,2013-14
+05M369,0.77,0.49,Manhattanville,2013-14
+05M692,0.99,0.95,Manhattanville,2013-14
+06M540,0.76,0.49,Manhattanville,2013-14
+10X213,0.6,0.5,Marble Hill-Inwood,2013-14
+10X284,0.65,0.47,Marble Hill-Inwood,2013-14
+10X477,0.91,0.76,Marble Hill-Inwood,2013-14
+10X546,0.71,0.54,Marble Hill-Inwood,2013-14
+07X473,0.57,0.27,Melrose South-Mott Haven North,2013-14
+07X495,0.94,0.65,Melrose South-Mott Haven North,2013-14
+07X500,0.88,0.64,Melrose South-Mott Haven North,2013-14
+07X600,0.64,0.19,Melrose South-Mott Haven North,2013-14
+02M529,0.61,0.45,Midtown-Midtown South,2013-14
+02M531,0.98,0.71,Midtown-Midtown South,2013-14
+21K525,0.81,0.67,Midwood,2013-14
+09X297,0.59,0.39,Morrisania-Melrose,2013-14
+09X403,0.68,0.33,Morrisania-Melrose,2013-14
+09X404,0.5,0.4,Morrisania-Melrose,2013-14
+09X543,0.62,0.3,Morrisania-Melrose,2013-14
+07X221,0.87,0.51,Mott Haven-Port Morris,2013-14
+07X334,0.4,0.19,Mott Haven-Port Morris,2013-14
+07X520,0.42,0.41,Mott Haven-Port Morris,2013-14
+07X551,0.65,0.58,Mott Haven-Port Morris,2013-14
+25Q263,0.69,0.58,Murray Hill,2013-14
+02M500,0.68,0.28,Murray Hill-Kips Bay,2013-14
+31R440,0.78,0.54,New Dorp-Midland Beach,2013-14
+31R605,1.0,0.99,New Dorp-Midland Beach,2013-14
+10X141,0.83,0.61,North Riverdale-Fieldston-Riverdale,2013-14
+14K488,0.83,0.54,North Side-South Side,2013-14
+14K558,0.91,0.52,North Side-South Side,2013-14
+14K561,0.87,0.66,North Side-South Side,2013-14
+14K610,0.49,0.24,North Side-South Side,2013-14
+26Q415,0.84,0.76,Oakland Gardens,2013-14
+23K493,0.56,0.4,Ocean Hill,2013-14
+15K462,0.85,0.56,Park Slope-Gowanus,2013-14
+15K463,0.61,0.42,Park Slope-Gowanus,2013-14
+15K464,0.61,0.36,Park Slope-Gowanus,2013-14
+11X418,0.57,0.34,Pelham Parkway,2013-14
+28Q680,0.95,0.91,Pomonok-Flushing Heights-Hillcrest,2013-14
+31R445,0.67,0.43,Port Richmond,2013-14
+17K531,0.82,0.48,Prospect Lefferts Gardens-Wingate,2013-14
+17K533,0.63,0.3,Prospect Lefferts Gardens-Wingate,2013-14
+17K546,0.93,0.76,Prospect Lefferts Gardens-Wingate,2013-14
+30Q555,0.62,0.51,Queensbridge-Ravenswood-Long Island City,2013-14
+30Q575,0.89,0.91,Queensbridge-Ravenswood-Long Island City,2013-14
+30Q580,0.98,0.98,Queensbridge-Ravenswood-Long Island City,2013-14
+27Q475,0.52,0.36,Richmond Hill,2013-14
+27Q475,0.52,0.36,Richmond Hill,2013-14
+27Q475,0.52,0.36,Richmond Hill,2013-14
+27Q475,0.52,0.36,Richmond Hill,2013-14
+27Q650,0.95,0.74,Richmond Hill,2013-14
+24Q485,0.58,0.38,Ridgewood,2013-14
+08X293,0.73,0.54,Schuylerville-Throgs Neck-Edgewater Park,2013-14
+08X405,0.52,0.37,Schuylerville-Throgs Neck-Edgewater Park,2013-14
+22K535,0.96,0.91,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,2013-14
+02M615,0.85,0.56,SoHo-TriBeCa-Civic Center-Little Italy,2013-14
+08X282,0.72,0.51,Soundview-Castle Hill-Clason Point-Harding Park,2013-14
+08X305,0.7,0.3,Soundview-Castle Hill-Clason Point-Harding Park,2013-14
+08X312,0.68,0.45,Soundview-Castle Hill-Clason Point-Harding Park,2013-14
+08X452,0.57,0.32,Soundview-Castle Hill-Clason Point-Harding Park,2013-14
+08X519,0.42,0.24,Soundview-Castle Hill-Clason Point-Harding Park,2013-14
+27Q480,0.55,0.34,South Ozone Park,2013-14
+27Q400,0.4,0.24,Springfield Gardens North,2013-14
+29Q248,0.66,0.32,Springfield Gardens North,2013-14
+29Q265,0.85,0.49,Springfield Gardens North,2013-14
+29Q272,0.84,0.56,Springfield Gardens North,2013-14
+29Q283,0.81,0.54,Springfield Gardens North,2013-14
+10X368,0.9,0.58,Spuyten Duyvil-Kingsbridge,2013-14
+16K393,0.65,0.43,Stuyvesant Heights,2013-14
+16K498,0.79,0.33,Stuyvesant Heights,2013-14
+31R047,0.9,0.88,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2013-14
+31R080,0.91,0.79,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2013-14
+31R460,0.84,0.7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2013-14
+02M630,0.81,0.62,Turtle Bay-East Midtown,2013-14
+10X237,0.68,0.53,Van Cortlandt Village,2013-14
+10X268,0.57,0.4,Van Cortlandt Village,2013-14
+10X342,0.61,0.37,Van Cortlandt Village,2013-14
+10X433,0.72,0.39,Van Cortlandt Village,2013-14
+10X440,0.45,0.39,Van Cortlandt Village,2013-14
+10X442,0.89,0.62,Van Cortlandt Village,2013-14
+10X445,1.0,0.96,Van Cortlandt Village,2013-14
+10X549,0.63,0.29,Van Cortlandt Village,2013-14
+10X696,1.0,0.99,Van Cortlandt Village,2013-14
+06M462,0.55,0.4,Washington Heights North,2013-14
+06M463,0.61,0.33,Washington Heights North,2013-14
+06M467,0.69,0.5,Washington Heights North,2013-14
+06M468,0.59,0.35,Washington Heights North,2013-14
+21K344,0.7,0.61,West Brighton,2013-14
+21K410,0.69,0.52,West Brighton,2013-14
+07X427,0.63,0.46,West Concourse,2013-14
+07X670,0.56,0.47,West Concourse,2013-14
+12X692,0.44,0.28,West Farms-Bronx River,2013-14
+31R450,0.8,0.56,West New Brighton-New Brighton-St. George,2013-14
+31R600,0.75,0.42,West New Brighton-New Brighton-St. George,2013-14
+11X253,0.62,0.18,Williamsbridge-Olinville,2013-14
+11X265,0.69,0.41,Williamsbridge-Olinville,2013-14
+11X270,0.68,0.43,Williamsbridge-Olinville,2013-14
+11X275,0.85,0.53,Williamsbridge-Olinville,2013-14
+11X290,0.7,0.62,Williamsbridge-Olinville,2013-14
+11X513,0.75,0.72,Williamsbridge-Olinville,2013-14
+11X514,0.72,0.34,Williamsbridge-Olinville,2013-14
+11X544,0.73,0.31,Williamsbridge-Olinville,2013-14
+14K071,0.59,0.35,Williamsburg,2013-14
+14K685,0.64,0.33,Williamsburg,2013-14
+22K555,0.99,0.9,Windsor Terrace,2013-14
+02M655,0.76,0.43,Yorkville,2013-14
+19K659,0.5,0.31,park-cemetery-etc-Brooklyn,2013-14
+06M552,0.56,0.45,,2013-14
